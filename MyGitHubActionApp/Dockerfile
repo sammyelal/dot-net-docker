@@ -20,5 +20,5 @@ COPY entrypoint.sh .
 RUN chmod +x entrypoint.sh
 
 # Run the entrypoint script when the container starts
-ENTRYPOINT ["entrypoint.sh"]
+ENTRYPOINT ["/app/entrypoint.sh"]
 #ENTRYPOINT ["dotnet", "MyGitHubActionApp.dll"]
