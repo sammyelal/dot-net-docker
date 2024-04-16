@@ -16,9 +16,9 @@ WORKDIR /app
 COPY --from=build-env /app/out .
 
 # Copy the entry point script and make sure it's executable
-COPY entrypoint.sh /entrypoint.sh
+COPY entrypoint.sh .
 RUN chmod +x entrypoint.sh
 
 # Run the entrypoint script when the container starts
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["entrypoint.sh"]
 #ENTRYPOINT ["dotnet", "MyGitHubActionApp.dll"]
