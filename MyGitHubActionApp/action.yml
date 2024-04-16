@@ -1,0 +1,12 @@
+name: Dot Net Docker
+description: Test of dotnet docker and GitHub Actions
+inputs:
+  arg: 
+    description: 'Argument to pass to the container'
+    required: true
+    default: 'test'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.arg }}
