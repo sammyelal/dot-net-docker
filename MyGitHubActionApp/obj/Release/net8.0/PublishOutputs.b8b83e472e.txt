@@ -1,0 +1,5 @@
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\out\MyGitHubActionApp.exe
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\out\MyGitHubActionApp.dll
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\out\MyGitHubActionApp.deps.json
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\out\MyGitHubActionApp.runtimeconfig.json
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\out\MyGitHubActionApp.pdb

@@ -1,0 +1,5 @@
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\bin\Release\net8.0\publish\MyGitHubActionApp.exe
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\bin\Release\net8.0\publish\MyGitHubActionApp.dll
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\bin\Release\net8.0\publish\MyGitHubActionApp.deps.json
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\bin\Release\net8.0\publish\MyGitHubActionApp.runtimeconfig.json
+C:\Projects\Repositories\GitHub Actions\Dot Net Docker\MyGitHubActionApp\bin\Release\net8.0\publish\MyGitHubActionApp.pdb
